@@ -11,7 +11,7 @@ n = n / 10;
 
 begin
 read (number_to_check as n);
-set s = 0;
+set j = 0;
 set k = n;
 
 while n != 0 do
